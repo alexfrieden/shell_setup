@@ -1,4 +1,4 @@
-colorscheme peachpuff                                                           
+colorscheme molokai                                                          
 let mapleader = "\\"
 syntax on
 
