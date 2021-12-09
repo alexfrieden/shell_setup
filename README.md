@@ -20,5 +20,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 Install plugin manager here: https://github.com/junegunn/vim-plug
 ```vim ~/.vimrc```
 
+Add to `~/.vim/colors` the molokai color https://github.com/tomasr/molokai
+
 Then go in and run `:PlugInstall` 
 
